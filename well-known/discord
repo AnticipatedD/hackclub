@@ -1,0 +1,7 @@
+# Create a new DNS record: 
+Name
+_discord.mdabul.cc
+Type
+TXT
+Content
+dh=8aa83a4ae18ea6c5397980fe33417f2879843f54
